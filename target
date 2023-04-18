@@ -118,7 +118,7 @@ seen before so yes its good
         Autoclicker = true,
         AutoclickerTime = 0.01,
         AutoclickerKey = "v",
-        AnimationPack = true
+        AnimationPack = false
     
 }
 }
